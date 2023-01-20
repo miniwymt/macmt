@@ -1,0 +1,17 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "File",
+  "attachmentFolderPath": "Attrchment",
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "trashOption": "local",
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "vimMode": false
+}

@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 14,
+    "emojiStyle": "none",
+    "iconColor": "#ee7272",
+    "recentlyUsedIcons": [
+      "RiGithubFill",
+      "RiDraftFill",
+      "SiArtixlinux",
+      "FabCanadianMapleLeaf",
+      "FabCreativeCommonsSampling"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Diary": "FarCalendar",
+  "Excalidraw": "RiPenNibFill",
+  "File": "FarFolderOpen",
+  "Templates": "FasTag",
+  "Attrchment": "RiAttachment2",
+  "File/mac": "FabApple",
+  "File/mac/工具": "FabEnvira",
+  "File/mac/code": "FabCanadianMapleLeaf",
+  "File/mac/code/git": "SiGit",
+  "File/mac/code/markdown": "SiMarkdown",
+  "File/linux": "SiArtixlinux",
+  "temp": "RiDraftFill",
+  "temp/Git打卡": "RiGithubFill",
+  "File/mac/工具/ClashX": "FasPaperPlane"
+}
